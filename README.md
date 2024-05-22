@@ -2,7 +2,8 @@
 This project utilizes machine learning models to classify user videos in "claim" or "opinion" type.
 
 ### Core Problem Statement
->TikTok users have the ability to report videos and comments that contain user claims. These reports identify content that needs to be reviewed by moderators. This process generates a large number of user reports that are difficult to address quickly. TikTok is working on the development of a predictive model that can determine whether a video contains a claim or offers an opinion. With a successful prediction model, TikTok can reduce the backlog of user reports and prioritize them more efficiently. This project classifies the user videos in "claim" or "opinion" type using machine learning models to boost the productivity of the company.
+>The TikTok data team is working on creating a smart computer program that can automatically identify if a video posted on TikTok is making a specific claim or just expressing an opinion. When users report videos for review, it creates a large number of reports that need to be checked by human moderators. This process can be very slow and overwhelming due to the sheer volume of reports. The new system, powered by machine learning, will analyze the videos and determine if they contain factual claims or personal opinions. By doing this, the system will help prioritize which videos need immediate attention from moderators. This will speed up the review process, ensuring that important issues are addressed quickly and efficiently, reducing the backlog of reports. Overall, the goal is to make TikTok a safer and more reliable platform for users.
+
 
 
 > [!TIP]
