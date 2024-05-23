@@ -11,7 +11,7 @@ This project utilizes machine learning models to classify user videos in "claim"
 
 
 > [!NOTE]
->Tableau public https://public.tableau.com/views/tiktok_data/Mean_claim_opinion?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+>Tableau public https://public.tableau.com/views/Tiktok_data_EDA/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 > [!IMPORTANT]
 > Connect me in LinkedIn www.linkedin.com/in/gourab-pal-0327801a4
